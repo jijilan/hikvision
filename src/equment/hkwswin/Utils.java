@@ -3,8 +3,6 @@ package equment.hkwswin;
 
 import com.sun.jna.NativeLong;
 import com.sun.jna.ptr.ByteByReference;
-import equment.hkwslin.DeviceEnums;
-import equment.hkwslin.HCNetSDK;
 
 import java.io.*;
 import java.text.ParseException;

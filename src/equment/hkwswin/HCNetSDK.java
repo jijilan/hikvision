@@ -27,7 +27,6 @@ import com.sun.jna.ptr.IntByReference;
 import com.sun.jna.ptr.NativeLongByReference;
 import com.sun.jna.ptr.ShortByReference;
 import com.sun.jna.win32.StdCallLibrary;
-import equment.hkwswin.Utils;
 
 
 //SDK接口说明,HCNetSDK.dll

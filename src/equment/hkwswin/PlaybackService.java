@@ -7,8 +7,6 @@ import com.sun.jna.Pointer;
 import com.sun.jna.ptr.ByteByReference;
 import com.sun.jna.ptr.IntByReference;
 import equment.ConGasStationMonitoring;
-import equment.hkwslin.HCNetSDK;
-import equment.hkwslin.Utils;
 
 import javax.swing.*;
 import java.util.Timer;

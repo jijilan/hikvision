@@ -3,8 +3,6 @@ package equment.hkwswin;
 import com.sun.jna.NativeLong;
 import com.sun.jna.ptr.NativeLongByReference;
 import equment.ConGasStationMonitoring;
-import equment.hkwslin.HCNetSDK;
-import equment.hkwslin.PlaybackService;
 
 import javax.swing.*;
 

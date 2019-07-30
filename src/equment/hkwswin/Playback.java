@@ -2,10 +2,6 @@ package equment.hkwswin;
 
 
 import equment.ConGasStationMonitoring;
-import equment.hkwslin.DeviceClient;
-import equment.hkwslin.DeviceEnums;
-import equment.hkwslin.HCNetSDK;
-import equment.hkwslin.Utils;
 
 /**
  * @Author jijl
@@ -75,6 +71,8 @@ public class Playback extends Thread {
                     //播放
                     cli.jButtonRealPlayActionPerformed(drvice, strFileName);
                 }
+            }else{
+                System.out.println("注册失败");
             }
             //注销 cleanup SDK
             cli.Logout_V30(userId);
